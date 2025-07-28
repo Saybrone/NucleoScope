@@ -125,3 +125,6 @@ Enter:
 | Start Energy (keV) | Spin | Parity | Predicted Gamma (keV) |
 |---------------------|------|--------|-------------------------|
 | 51.7               | 2.5  | +1     | 38.6                   |
+
+## Future Improvements
+- Expanding the dataset by integrating ENSDF

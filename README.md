@@ -128,3 +128,7 @@ Enter:
 
 ## Future Improvements
 - Expanding the dataset by integrating ENSDF
+- Mobile app using Android Studio
+- Add prediction of intensity and multipolarity
+  
+  

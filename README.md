@@ -41,12 +41,3 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 ---
 
 ## Project Structure
-NucleoScope/
-│
-├── gamma_model.h5 # Trained TensorFlow model
-├── scaler.pkl # StandardScaler for feature normalization
-├── NDSData.csv # Nuclear data used for training
-├── GammaTrain.py # Training script
-├── GammaTest.py # Testing & evaluation script
-├── gui_predictor.py # Interactive prediction software (Tkinter)
-└── README.md # Project documentation

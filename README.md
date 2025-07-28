@@ -17,12 +17,16 @@ This model is trained on nuclear structure data extracted from International Ato
 
 - **Accurate Gamma-Ray Energy Prediction**  
   Leverages advanced deep learning models to predict gamma-ray energies using minimal nuclear structure parameters.
+  
 - **TensorFlow-Powered Neural Network**  
   Implements a high-performance regression model built with TensorFlow for reliable and precise predictions.
+  
 - **Interactive User Interface**  
   Offers both GUI and CLI modes for flexible and user-friendly interaction.
+  
 - **Pre-Trained Model with Scaler**  
   Includes a fully trained model and StandardScaler for seamless deployment without additional preprocessing.
+  
 - **Data Normalization for Accuracy**  
   Trained on normalized datasets using StandardScaler to ensure consistency and improved model performance.
 

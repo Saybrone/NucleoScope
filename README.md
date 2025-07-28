@@ -133,7 +133,7 @@ Enter:
 
 
 ## Data Source
-This project uses evaluated nuclear structure data from the International Atomic Energy Agency (IAEA) Nuclear Data Section:
+This project uses evaluated nuclear structure data from the International Atomic Energy Agency (IAEA)
 
 Source: [IAEA Nuclear Chart](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html)
 

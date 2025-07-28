@@ -44,8 +44,12 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 ```
 NucleoScope/
 ├── U235 Gamma Decay Prediction Model/
-│ ├── U235_NDSData.csv 
-│ └──                   
+│ ├── TrainingPeriodU235.ipynb 
+│ ├── U-235_ModelEvaluation.png 
+│ ├── U235GammaModel.h5 
+│ ├── U235Scaler.pkl
+│ ├── U235_NDSData.csv
+│ └── README.md                  
 ├── Model_Software_Integration.py                   
 ├── requirements.txt                             
 ├── LICENSE                 

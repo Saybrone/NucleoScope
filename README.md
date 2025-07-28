@@ -9,7 +9,7 @@ NucleoScope is an AI-based model designed to predict gamma-ray transition energi
 
 and predicts the gamma-ray energy emitted during transitions.
 
-This model is trained on nuclear structure data extracted from ENSDF (Evaluated Nuclear Structure Data File) and processed into a structured format suitable for machine learning.
+This model is trained on nuclear structure data extracted from International Atomic Energy Agency (IAEA) and processed into a structured format suitable for machine learning.
 
 ---
 

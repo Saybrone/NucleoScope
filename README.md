@@ -70,3 +70,8 @@ cd NucleoScope
 ```bash
 pip install -r requirements.txt
 ```
+### Important Notes
+-Tkinter is included with most Python installations. On some Linux systems, you may need to install it separately:
+```bash
+sudo apt-get install python3-tk
+```

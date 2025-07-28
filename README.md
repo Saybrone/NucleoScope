@@ -60,3 +60,8 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 - Optimizer: Adam
 
 ---
+## Usage
+### 1. Clone Repository
+```bash
+git clone https://github.com/Saybrone/NucleoScope.git
+cd NucleoScope

@@ -9,10 +9,10 @@ The model is trained on data extracted from the IAEA Nuclear Structure Database,
 ## Performance
 
 - **Mean Absolute Error (MAE): ~110 keV**
-- This accuracy is considered highly reasonable for experimental gamma-ray predictions, as experimental uncertainties and nuclear level mixing often introduce variations in the same order of magnitude.
-**Loss Function:** Mean Squared Error (MSE)
-**Optimizer:** Adam
-**Overfitting Prevention:** Early stopping with patience of 20 epochs
+  - This accuracy is considered highly reasonable for experimental gamma-ray predictions, as experimental uncertainties and nuclear level mixing often introduce variations in the same order of magnitude.
+- **Loss Function:** Mean Squared Error (MSE)
+- **Optimizer:** Adam
+- **Overfitting Prevention:** Early stopping with patience of 20 epochs
 
 ## Visual Test Summary
 ![Gamma Energy Prediction](U-235_ModelEvaluation.png)

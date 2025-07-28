@@ -23,11 +23,11 @@ This model is trained on nuclear structure data extracted from ENSDF (Evaluated 
 ---
 
 ## Why This Project?
-Predicting gamma-ray energies is crucial in:
-- Nuclear Physics Research – Understanding nuclear structure and decay schemes.
-- Nuclear Medicine – Designing isotopes for imaging and therapy.
-- Nuclear Safety & Forensics – Detecting isotopic signatures for non-proliferation.
-- Educational Tools – Demonstrating AI in nuclear science.
+Accurate prediction of gamma-ray transition energies plays a significant role in several critical domains:
+- **Nuclear Physics Research** – Facilitates the study of nuclear structure, energy levels, and decay pathways, enabling deeper insights into fundamental interactions.  
+- **Nuclear Medicine** – Assists in the selection and optimization of isotopes for diagnostic imaging and targeted radiotherapy, improving patient outcomes.  
+- **Nuclear Safety and Non-Proliferation** – Supports monitoring and analysis of radioactive materials for security, safeguards, and forensic investigations.  
+- **Education and Training** – Serves as an advanced, interactive tool to demonstrate the application of machine learning in nuclear science, enhancing both academic research and student engagement.  
 
 ---
 

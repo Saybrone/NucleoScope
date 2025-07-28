@@ -41,3 +41,22 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 ---
 
 ## Project Structure
+## How It Works
+### Input Features
+- `start level energy [keV]` – Energy of the initial nuclear state.
+- `spin` – Total angular momentum of the state.
+- `parity` – Nuclear parity (`+` → `1`, `-` → `-1`).
+
+### Output
+- `energy [keV]` – Predicted gamma-ray energy for the transition.
+
+### Model Details
+- 3-layer fully connected neural network:
+  - Dense(128, relu)
+  - Dense(64, relu)
+  - Dense(32, relu)
+  - Output: Dense(1) – Regression output
+- Loss function: Mean Squared Error (MSE)
+- Optimizer: Adam
+
+---

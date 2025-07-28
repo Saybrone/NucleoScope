@@ -63,7 +63,8 @@ NucleoScope/
 │ ├── U235_NDSData.csv
 │ └── README.md           
 ├── Model_Software_Integration.py                   
-├── requirements.txt                             
+├── requirements.txt
+├── Logo.png                             
 ├── LICENSE                 
 └── README.md             
 ```

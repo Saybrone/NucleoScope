@@ -121,3 +121,7 @@ Enter:
 - **Spin (e.g., 1.5 for 3/2)**
 
 - **Parity (+1 or -1)**
+## Example Prediction
+| Start Energy (keV) | Spin | Parity | Predicted Gamma (keV) |
+|---------------------|------|--------|-------------------------|
+| 51.7               | 2.5  | +1     | 38.6                   |

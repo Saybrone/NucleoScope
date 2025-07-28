@@ -116,8 +116,8 @@ Run the GUI:
 python Model_Software_Integration.py
 ```
 Enter:
-- `Start level energy (keV)****
+- **Start level energy (keV)
 
-- `Spin (e.g., 1.5 for 3/2)****
+- **Spin (e.g., 1.5 for 3/2)
 
-- `Parity (+1 or -1)****
+- **Parity (+1 or -1)

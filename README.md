@@ -110,7 +110,7 @@ Example: model = tf.keras.models.load_model("Model.h5", compile=False) ---> mode
 ```
 ### 4. Modify the scaler transformation to match the desired transformations
 ```bash
-Example: scaler = joblib.load("Model.pkl") ---> scaler = joblib.load("/U235 Gamma Decay Prediction Model
+Example: scaler = joblib.load("Model.pkl") ---> scaler = joblib.load("U235 Gamma Decay Prediction Model
 /U235Scaler.pkl")
 ```
 ### 5. Predict with integrated deep learning model

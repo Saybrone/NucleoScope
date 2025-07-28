@@ -115,3 +115,9 @@ Run the GUI:
 ```bash
 python Model_Software_Integration.py
 ```
+Enter:
+- `Start level energy (keV)****
+
+- `Spin (e.g., 1.5 for 3/2)****
+
+- `Parity (+1 or -1)****

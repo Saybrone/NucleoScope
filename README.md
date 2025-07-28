@@ -41,6 +41,17 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 ---
 
 ## Project Structure
+```
+NucleoScope/
+├── U235 Gamma Decay Prediction Model/
+│ ├── U235_NDSData.csv 
+│ └──                   
+├── Model_Software_Integration.py                   
+├── requirements.txt                             
+├── LICENSE                 
+└── README.md             
+```
+
 ## How It Works
 ### Input Features
 - `start level energy [keV]` – Energy of the initial nuclear state.

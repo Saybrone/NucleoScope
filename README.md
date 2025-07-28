@@ -75,3 +75,8 @@ pip install -r requirements.txt
 ```bash
 sudo apt-get install python3-tk
 ```
+### 3. Modify the neural network to match the desired model
+```bash
+Example: model = tf.keras.models.load_model("Model.h5", compile=False) ---> model = tf.keras.models.load_model("U235 Gamma Decay Prediction Model
+/U235GammaModel.h5", compile=False)
+```

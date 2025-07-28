@@ -135,7 +135,7 @@ Enter:
 ## Data Source
 This project uses evaluated nuclear structure data from the International Atomic Energy Agency (IAEA) Nuclear Data Section:
 
-Source: IAEA Nuclear Chart[Link Text](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html)
+Source: [IAEA Nuclear Chart](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html)
 
 The dataset contains:
 

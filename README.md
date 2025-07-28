@@ -1,6 +1,6 @@
 # NucleoScope  
 AI-Powered Gamma-Ray Energy Prediction from Nuclear Energy Levels  
-![NucleoScope](Logo.png)
+<img src="Logo.png" alt="NucleoScope" width="300">
 ## Overview
 NucleoScope is an AI-based model designed to predict gamma-ray transition energies in nuclear decay using fundamental nuclear level properties. It leverages deep learning to map relationships between:
 - Start Level Energy (in keV)

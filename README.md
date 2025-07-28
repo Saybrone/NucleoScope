@@ -145,3 +145,6 @@ The dataset contains:
   
 These values were extracted, cleaned, and converted into CSV format for training the AI model.
   
+##  References
+-  [TensorFlow](https://www.tensorflow.org/)
+-  [Kaggle](https://www.kaggle.com/)

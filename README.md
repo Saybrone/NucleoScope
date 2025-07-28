@@ -110,3 +110,8 @@ Example: model = tf.keras.models.load_model("Model.h5", compile=False) ---> mode
 Example: scaler = joblib.load("Model.pkl") ---> scaler = joblib.load("/U235 Gamma Decay Prediction Model
 /U235Scaler.pkl")
 ```
+### 5. Predict with integrated deep learning model
+Run the GUI:
+```bash
+python Model_Software_Integration.py
+```

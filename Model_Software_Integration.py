@@ -5,9 +5,9 @@ import tensorflow as tf
 import joblib
 
 # Load the trained model and scaler
-model = tf.keras.models.load_model("SelectedModel.h5", compile=False)
+model = tf.keras.models.load_model("Model.h5", compile=False)
 model.compile(optimizer='adam', loss='mse', metrics=['mae'])
-scaler = joblib.load("SelectedModel.pkl")
+scaler = joblib.load("Model.pkl")
 
 def predict_gamma():
     try:

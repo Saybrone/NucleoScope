@@ -105,7 +105,7 @@ sudo apt-get install python3-tk
 Example: model = tf.keras.models.load_model("Model.h5", compile=False) ---> model = tf.keras.models.load_model("U235 Gamma Decay Prediction Model
 /U235GammaModel.h5", compile=False)
 ```
-### 4. Modify the scaler transformation to match the desired model
+### 4. Modify the scaler transformation to match the desired transformations
 ```bash
 Example: scaler = joblib.load("Model.pkl") ---> scaler = joblib.load("/U235 Gamma Decay Prediction Model
 /U235Scaler.pkl")

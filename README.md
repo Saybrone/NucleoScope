@@ -130,5 +130,18 @@ Enter:
 - Expanding the dataset by integrating ENSDF
 - Mobile app using Android Studio
 - Add prediction of intensity and multipolarity
-  
+
+
+##Data Source
+This project uses evaluated nuclear structure data from the International Atomic Energy Agency (IAEA) Nuclear Data Section:
+
+Source: IAEA Nuclear Chart
+
+The dataset contains:
+
+- Energy Levels (keV) for various isotopes
+- Spin-Parity Assignments (Jπ) for nuclear states
+- Gamma Transition Energies (keV) for decay schemes
+- 
+These values were extracted, cleaned, and converted into CSV format for training the AI model.
   

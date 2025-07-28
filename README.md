@@ -65,3 +65,8 @@ Accurate prediction of gamma-ray transition energies plays a significant role in
 ```bash
 git clone https://github.com/Saybrone/NucleoScope.git
 cd NucleoScope
+```
+### Install Requirements
+```bash
+pip install -r requirements.txt
+```

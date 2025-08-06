@@ -36,9 +36,11 @@ copy, modify, and distribute the Software, subject to the following conditions:
    Any violation of these terms immediately terminates your rights under this license.  
    Rights granted before the violation remain valid unless the license is breached.
 
+By using or distributing this Software, you agree to be bound by the terms of this license.
+
 ---
 
 For commercial licensing or permission requests, please contact:  
 **batupekcan9@gmail.com**
 
-This license is inspired by [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), adapted for software use. It is not OSI-approved open source, but it is a source-available license designed to protect authorship and non-commercial intent.
+This license is inspired by [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), adapted for software use.

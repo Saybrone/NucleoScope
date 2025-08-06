@@ -6,7 +6,7 @@ License: Non-Commercial Source-Available License (NSC-SA 1.0)
 
 Preamble:
 This software project is distributed to promote learning, open collaboration, and personal use. The author retains full rights to the intellectual property and prohibits any unauthorized commercial use.
----
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to use,
 copy, modify, and distribute the Software for personal, educational, and non-commercial purposes, subject to the following conditions:

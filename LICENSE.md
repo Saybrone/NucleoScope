@@ -6,7 +6,7 @@ License: Non-Commercial Source-Available License (NSC-SA 1.0)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to use,
-copy, modify, and distribute the Software, subject to the following conditions:
+copy, modify, and distribute the Software for personal, educational, and non-commercial purposes, subject to the following conditions:
 
 1. Attribution:  
    - You must give appropriate credit to the original author ("Saybrone").

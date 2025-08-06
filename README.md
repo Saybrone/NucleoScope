@@ -155,4 +155,4 @@ These values were extracted, cleaned, and converted into CSV format for training
 ## License  
 *NSC-SA 1.0 (Non-Commercial Source-Available License)*  
 This software is free for non-commercial use with attribution. Commercial use requires permission.
-See LICENSE for details.
+See [LICENSE](NucleoScope/LICENSE.md) for details.
